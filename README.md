@@ -74,7 +74,7 @@ $ python3 -m doctest wardial.py
 Find the `FIXME (Task 1)` comment inside the `wardial` function,
 and follow the instructions to make the doctests pass.
 Note that the doctests can take up to an hour to run,
-and it is okay to move onto task 2 without waiting for the doctests to finish.
+and it's okay to move onto task 2 without waiting for the doctests to finish.
 
 **Task 2:**
 

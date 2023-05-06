@@ -1,8 +1,7 @@
 # Wardial
 
-[![](https://github.com/amyyu116/wardial/workflows/task1/badge.svg)](https://github.com/amyyu116/wardial/actions?query=workflow%3Atask1)
-[![](https://github.com/amyyu116/wardial/workflows/task2/badge.svg)](https://github.com/amyyu116/wardial/actions?query=workflow%3Atask2)
-
+![](https://github.com/amyyu116/wardial/workflows/task1/badge.svg)
+![](https://github.com/amyyu116/wardial/workflows/task2/badge.svg)
 
 **Learning Objectives:**
 
@@ -74,7 +73,7 @@ $ python3 -m doctest wardial.py
 Find the `FIXME (Task 1)` comment inside the `wardial` function,
 and follow the instructions to make the doctests pass.
 Note that the doctests can take up to an hour to run,
-and it's okay to move onto task 2 without waiting for the doctests to finish.
+and it is okay to move onto task 2 without waiting for the doctests to finish.
 
 **Task 2:**
 
